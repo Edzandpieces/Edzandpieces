@@ -1,4 +1,4 @@
-### Greetings!! 👋
+### Greetings!! <img src="https://res.cloudinary.com/snoared/image/upload/v1654851246/get-greeting-get-greetings_mdvro2.gif" width="40" height="40">
 
 My name is Ed and I'm a Product Manager living in Tokyo, Japan. During my time attending Le Wagon's 9 week bootcamp, I was a Project Manager and worked with a magnificient team of 3 other developers to create an app called <a href="https://nurture-lw.herokuapp.com/">Nurture</a>, which helps tutors maintain feedback and monitor their student's progress.
 
