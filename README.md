@@ -7,6 +7,18 @@ My name is Ed and I'm a Product Manager living in Tokyo, Japan. Thanks for visit
 
 ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+
 During my time attending Le Wagon's 9 week bootcamp, I was a Project Manager and worked with a magnificient team of 3 other developers to create an app called <a href="https://nurture-lw.herokuapp.com/">Nurture</a>, which helps tutors maintain feedback and monitor their student's progress.
 
 People say I have a good voice 🤷‍♂️ and as I have a passion for both digital technology and promotion, I've have spoken to large audiences before on all <a href="https://www.linkedin.com/in/edmund-0h/overlay/1635493073057/single-media-viewer?type=DOCUMENT&profileId=ACoAADv9-wUBAzGcXLjmguOQxFCYwTPRi9Ha7Y0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhaCrLlllSyq7H%2F%2BPqIAk6w%3D%3D">sorts of tech related subjects</a>.
