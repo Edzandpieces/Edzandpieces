@@ -5,7 +5,7 @@ Greetings!! <img src="https://res.cloudinary.com/snoared/image/upload/v165485124
 My name is Ed and I'm a Product Manager living in Tokyo, Japan. Thanks for visiting my page!
 </h3>
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 ### 🛠 &nbsp;Tech Stack
 
